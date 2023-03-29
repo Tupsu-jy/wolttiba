@@ -1,0 +1,24 @@
+se on helppo saada toimimaan, mutta hyvät käytänteet?
+
+-HTTP API vs rest api. eli tehään vaan yhden endpointin rest api
+-miten saan controllerin yhdistettyä springbootiin? kun samassa paketissa niin ei tarvita mitään... oikeaoppisuus??
+-mihin logiikka? jos ei controllereihin? payment packageen
+-se codegen juttu joka generoi dokumentaation nettiin. myöhemmin
+-selvitä oikeaoppinen dokumentaatio
+
+logiikka totetutus <- TÄRKEIN!!??
+mites tää aikalogiikka?? testien jälkeen
+
+testit ja sitten kontrollerit
+
+kontrolleri
+dokumentaatio
+jari tai jtn
+työhakemus
+
+TESTIT
+kontrolleri on yksinkertaisin... kai
+
+logiikkatestit ensin. kaksi vaihtoehtoa
+yleistestejä
+tee semmoinen
